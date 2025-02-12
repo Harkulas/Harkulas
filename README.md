@@ -11,19 +11,19 @@
 - Gardening (Bonsai enthusiast :evergreen_tree:)
 - Side projects (Lazy Link ft. @dmfigueroa)
 
-#### 📅 Hobbies
+### 📅 Hobbies
 - Solve programming problems at Codeforces, UVa, LeetCode
 - Watch anime and TV shows
 - Read some manga
 - Play videogames
 - etc...
 
-## 💻 Current projects
+### 💻 Current projects
 - viajin [WIP] - Side project
 - budget [WIP] - Side project
 - todo [WIP] - Side project
 
-## 📚 Learning
+### 📚 Learning
 - React.js with my wife 👩‍❤️‍👨
 - Hono.js with RPC
 - Remix
@@ -31,7 +31,7 @@
 - Cloudflare workers
 
 
-## 📚 Learning
+### 📚 Learning
 For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral), here are some examples:
 | Languages & Framework(Backend) | Frontend | Databases | Cloud | Tools |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
