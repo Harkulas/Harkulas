@@ -24,14 +24,12 @@
 - todo [WIP] - Side project
 
 ### 📚 Learning
-- React.js with my wife 👩‍❤️‍👨
-- Hono.js with RPC
-- Remix
-- TypeScript
-- Cloudflare workers
+- Angular
+- Docker
+- Cloud techs - AWS
 
 
-### 📚 Learning
+### 📚 My Tech stacks
 For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral), here are some examples:
 | Languages & Framework(Backend) | Frontend | Databases | Cloud | Tools |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
