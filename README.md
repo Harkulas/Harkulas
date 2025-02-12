@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Johnny</h1>
-<h3 align="center">A software engineer from Colombia</h3>
+<h3 align="center">Hey there 👋, I'm harkulass</h3>
+<p align="center">A software engineer from Nepal. I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.</p>
 
 ## 💬 Ask me about
 - Backend web development (Python, TypeScript, PHP)
