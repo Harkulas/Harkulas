@@ -29,3 +29,11 @@
 - Remix
 - TypeScript
 - Cloudflare workers
+
+
+## 📚 Learning
+- React.js with my wife 👩‍❤️‍👨
+- Hono.js with RPC
+- Remix
+- TypeScript
+- Cloudflare workers
