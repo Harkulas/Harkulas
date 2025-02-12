@@ -1,7 +1,7 @@
 <h3 align="left">Hey there 👋, I'm harkulass</h3>
 <p align="left">A software engineer from Nepal. I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.</p>
 
-## 💬 Ask me about
+### 💬 Ask me about
 - Backend web development (Python, TypeScript, PHP)
 - Frontend web development (Vue.js, React.js)
 - Docker
@@ -11,7 +11,7 @@
 - Gardening (Bonsai enthusiast :evergreen_tree:)
 - Side projects (Lazy Link ft. @dmfigueroa)
 
-## 📅 Hobbies
+#### 📅 Hobbies
 - Solve programming problems at Codeforces, UVa, LeetCode
 - Watch anime and TV shows
 - Read some manga
