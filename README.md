@@ -32,8 +32,6 @@
 
 
 ## 📚 Learning
-- React.js with my wife 👩‍❤️‍👨
-- Hono.js with RPC
-- Remix
-- TypeScript
-- Cloudflare workers
+For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral), here are some examples:
+| Repository Activity Trends | Collaborative Productivity - Last 28 days |
+| ----------- | ----------- |
