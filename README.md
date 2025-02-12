@@ -19,9 +19,10 @@ Hey there 👋,
 
 A software engineer from Nepal. I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.
 
----
+
 
 #### My Tech Stack 🌱 📅
+---
 - Backend web development (Python, TypeScript, PHP)
 - Frontend web development (Vue.js, React.js)
 - Docker
