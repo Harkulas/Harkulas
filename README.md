@@ -21,7 +21,7 @@ A software engineer from Nepal. I create blog posts and open source packages mai
 
 
 
-#### My Tech Stack 🌱 📅
+#### 📅 My Tech Stack 
 ---
 - Backend web development (Python, TypeScript, PHP)
 - Frontend web development (Vue.js, React.js)
