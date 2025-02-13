@@ -1,5 +1,5 @@
 <h2 align="left">Hey there 👋, I'm Harka</h2>
-<p align="left">A software engineer from Nepal. I'm CS graduate and been software engineering since 5 years.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.</p>
+<p align="left">A software engineer from Nepal. I'm CS graduate and been software engineering since 5 years.  Love to learning new tech and share my knowledge with others.</p>
 
 ### 💬 Ask me about <img width="20" height="20" src="https://img.icons8.com/ios/50/circuit.png" alt="circuit"/>
 
@@ -7,7 +7,6 @@
 - Frontend development (HTML,CSS, jQuery, javascript, Angular)
 - Clean Architecture
 - Design Patterns
-- Side projects (Lazy Link ft. @dmfigueroa)
 
 ### 📅 Hobbies
 - Solve programming problems at Hackerrank, LeetCode
