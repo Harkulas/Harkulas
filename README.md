@@ -1,4 +1,4 @@
-<h3 align="left">Hey there 👋, I'm harkulass</h3>
+<h2 align="left">Hey there 👋, I'm Harka</h2>
 <p align="left">A software engineer from Nepal. I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.</p>
 
 ### 💬 Ask me about <img width="20" height="20" src="https://img.icons8.com/ios/50/circuit.png" alt="circuit"/>
