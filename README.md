@@ -1,7 +1,8 @@
 <h3 align="left">Hey there 👋, I'm harkulass</h3>
 <p align="left">A software engineer from Nepal. I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.</p>
 
-### 💬 Ask me about
+### 💬 Ask me about ![image](https://github.com/user-attachments/assets/4130c9b4-37e4-4484-bf36-002ceec1ad34)
+
 - Backend development (C#, .Net)
 - Frontend development (HTML,CSS, jQuery, javascript, Angular)
 - Clean Architecture
