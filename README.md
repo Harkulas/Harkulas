@@ -1,7 +1,7 @@
 <h2 align="left">Hey there 👋, I'm Harka</h2>
 <p align="left">A software engineer from Nepal. I'm CS graduate and been software engineering since 5 years.  Love to learning new tech and share my knowledge with others.</p>
 
-### 💬 Ask me about 
+### 💬 Ask me about <img width="100" />  ![profile view count](https://komarev.com/ghpvc/?username=Harkulas)
 
 - Backend development (C#, .Net)
 - Frontend development (HTML,CSS, jQuery, javascript, Angular)
