@@ -1,4 +1,4 @@
-<h2 align="left">Hey there 👋, I'm Harka <img align="right" src="https://komarev.com/ghpvc/?username=Harkulas" /></h2> 
+<h2 align="left">Hey there 👋, I'm Harka <img align="right" src="https://komarev.com/ghpvc/?username=Harkulas" style="padding: 10px 0 0 0" /></h2> 
 <p align="left">A software engineer from Nepal. I'm CS graduate and been software engineering since 5 years.  Love to learning new tech and share my knowledge with others.</p>
 
 ### 💬 Ask me about <img width="100" /> <!-- ![profile view count](https://komarev.com/ghpvc/?username=Harkulas) -->
