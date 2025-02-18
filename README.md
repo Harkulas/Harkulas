@@ -1,12 +1,20 @@
 <h2 align="left">Hey there 👋, I'm Harka <img align="right" src="https://komarev.com/ghpvc/?username=Harkulas" style="padding: 10px 0 0 0" /></h2> 
 <p align="left">A software engineer from Nepal. I'm CS graduate and been software engineering since 5 years.  Love to learning new tech and share my knowledge with others.</p>
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harka-saud)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/Harkulas)
+![Email Address](https://img.shields.io/badge/Email-512BD4?style=flat-square&logo=gmail&logoColor=white)
+
+
+---
+
 ### 💬 Ask me about <img width="100" /> <!-- ![profile view count](https://komarev.com/ghpvc/?username=Harkulas) -->
 
 - Backend development (C#, .Net)
 - Frontend development (HTML,CSS, jQuery, javascript, Angular)
 - Clean Architecture
 - Design Patterns
+#
 
 ### 📅 Hobbies
 - Solve programming problems at Hackerrank, LeetCode
