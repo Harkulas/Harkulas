@@ -4,7 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harka-saud)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/Harkulas)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saudhark99@gmail.com)](mailto:saudhark99@gmail.com)
-![Email Address](https://img.shields.io/badge/Email-512BD4?style=flat-square&logo=gmail&logoColor=white)
 
 
 ---
